@@ -1,1 +1,1 @@
-[out.gif](https://github.com/diegopap/NikeFuelBand/blob/master/out.gif)
+![out.gif](https://github.com/diegopap/NikeFuelBand/blob/master/out.gif)
